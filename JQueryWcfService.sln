@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQueryWcfService", "JQueryWcfService\JQueryWcfService.csproj", "{193A8C76-0171-4185-8E11-2022C651A0B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeWcf", "ConsumeWcf\ConsumeWcf.csproj", "{4CB24698-F992-48A3-8781-56CCB4EA4096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193A8C76-0171-4185-8E11-2022C651A0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193A8C76-0171-4185-8E11-2022C651A0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193A8C76-0171-4185-8E11-2022C651A0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193A8C76-0171-4185-8E11-2022C651A0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB24698-F992-48A3-8781-56CCB4EA4096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB24698-F992-48A3-8781-56CCB4EA4096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB24698-F992-48A3-8781-56CCB4EA4096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB24698-F992-48A3-8781-56CCB4EA4096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
